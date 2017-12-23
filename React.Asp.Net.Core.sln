@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.Sample.CoreMvc", "..\React.NET-master\src\React.Sample.CoreMvc\React.Sample.CoreMvc.csproj", "{6013660A-7BD2-4B1D-9D0C-FC1CF11B38EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.Sample.CoreMvc", "React.Sample.CoreMvc\React.Sample.CoreMvc.csproj", "{6013660A-7BD2-4B1D-9D0C-FC1CF11B38EC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.AspNet", "..\React.NET-master\src\React.AspNet\React.AspNet.csproj", "{1297F066-2CB4-40B0-8B0F-323AEAC98F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.AspNet", "React.AspNet\React.AspNet.csproj", "{1297F066-2CB4-40B0-8B0F-323AEAC98F9C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.Core", "..\React.NET-master\src\React.Core\React.Core.csproj", "{9C11A016-8E19-41AF-81FF-B1F9CAE9A51D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.Core", "React.Core\React.Core.csproj", "{9C11A016-8E19-41AF-81FF-B1F9CAE9A51D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.AspNet.Middleware", "..\React.NET-master\src\React.AspNet.Middleware\React.AspNet.Middleware.csproj", "{676F0F92-B0EC-4892-ACF6-85570571A36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "React.AspNet.Middleware", "React.AspNet.Middleware\React.AspNet.Middleware.csproj", "{676F0F92-B0EC-4892-ACF6-85570571A36F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
