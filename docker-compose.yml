@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  react.asp.net.core:
+    image: react.asp.net.core
+    build:
+      context: .
+      dockerfile: React.Asp.Net.Core\Dockerfile
